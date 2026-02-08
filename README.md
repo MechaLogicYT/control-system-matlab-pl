@@ -1,10 +1,6 @@
-# control-system-matlab-pl
-
 # Sterowanie ciągłe - Matlab 
 
-# Seria filmów na Youtube 
-
-##  Odcinki
+##Odcinki
 1. Sterowanie ciągłe | Zapas stabilności – Bode i Nyquist | MATLAB
 
 ##  YouTube

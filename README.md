@@ -1,7 +1,8 @@
-# Sterowanie ciągłe - Matlab 
+# Sterowanie ciągłe - Matlab | Simulink
 
-##Odcinki
+## Odcinki
 1. Sterowanie ciągłe | Zapas stabilności – Bode i Nyquist | MATLAB
+2. Sterowanie ciągłe | Układ regulacji z zakłóceniem – przeregulowanie, uchyb czas regulacji | Simulink
 
 ##  YouTube
 Link do kanału - https://www.youtube.com/@MechaLogicPro

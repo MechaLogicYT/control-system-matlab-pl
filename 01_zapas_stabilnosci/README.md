@@ -9,5 +9,8 @@ Co pokazuje kod
 - charakterystyki Nyquista
 - wyznaczanie zapasu fazy i amplitudy
 
+## LINK
+WIDEO - https://www.youtube.com/watch?v=jrTjcmbOUaI
+
 ## Pliki
 - zapas_stabilnosci_kod.m

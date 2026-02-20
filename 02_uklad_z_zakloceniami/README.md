@@ -3,7 +3,7 @@
 Kod użyty w filmie:
 Sterowanie ciągłe | Układ regulacji z zakłóceniem – przeregulowanie, uchyb czas regulacji | Simulink
 
-Co zawiera simulink
+## Co zawiera simulink
 - przebiegi uchybu
 - przebiegi wyjściowe
 - gotowe schematy 

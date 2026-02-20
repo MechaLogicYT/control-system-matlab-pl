@@ -3,7 +3,7 @@
 Kod użyty w filmie:
 Sterowanie ciągłe | Zapas stabilności – Bode i Nyquist | MATLAB
 
-Co pokazuje kod
+## Co pokazuje kod
 - charakterystyki Step
 - charakterystyki Bodego
 - charakterystyki Nyquista

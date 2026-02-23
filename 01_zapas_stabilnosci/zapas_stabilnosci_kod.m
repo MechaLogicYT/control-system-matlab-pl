@@ -2,7 +2,7 @@
 % Kanal YouTube - wpadnij po inne poradniki. 
 % Link do filmiku z omowieniem - https://youtu.be/jrTjcmbOUaI 
 
-%% Zapas stabilnosci ukladow regulacji - kryterium Hurwitza, Nyquista
+% Zapas stabilnosci ukladow regulacji - kryterium Hurwitza, Nyquista
 
 % inne formy zapisu transmitancji 
 % /////////

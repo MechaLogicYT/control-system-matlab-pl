@@ -3,7 +3,7 @@
 % Kanal YouTube - wpadnij po inne poradniki. 
 % Link do filmiku z omowieniem - https://youtu.be/cLqq47w5H48
 
-%% Regulator P, synteza parametryczna - Matlab + Simulink
+% Regulator P, synteza parametryczna - Matlab + Simulink
 clc; clear; 
 
 % Kr -> licznik transmitancji, wzmocnienie podstawowe naszego sygnalu

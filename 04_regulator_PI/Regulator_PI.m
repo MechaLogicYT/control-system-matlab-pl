@@ -68,7 +68,7 @@ R_PI_Bode = tf(L22,M22)
 
 sygnal_wejsciowy = 1;
 sygnal_wyjsciowy = dcgain(feedback(R_PI_Bode*G,1));
-uchyb = sygnal_wyjsciowy - sygnal_wyjsciowy
+uchyb = sygnal_wejsciowy - sygnal_wyjsciowy
 
 
 % Metoda 2 - T i tau, styczna 

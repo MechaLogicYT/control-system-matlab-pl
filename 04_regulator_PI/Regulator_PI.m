@@ -1,6 +1,6 @@
 % Autor - MechaLogic
 % Kanal YouTube - wpadnij po inne poradniki. 
-% Link do filmiku z omowieniem - 
+% Link do filmiku z omowieniem - https://youtu.be/iqYQs3cIbB4
 
 % Regulator PI, synteza parametryczna - Matlab + Simulink
 
